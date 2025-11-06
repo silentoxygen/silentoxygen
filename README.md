@@ -37,9 +37,10 @@ I create content the same way I build platforms: with intention, clarity, and cr
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=silentoxygen&theme=gruvbox&border_radius=4.5) -->
 
 #
-<!--
+<br clear="both" />
+
 <details>
- <summary><h3>👨‍💻 silentoxygen's Coding Journey</h3></summary>
+  <summary><h3>👨‍💻 silentoxygen's Coding Journey</h3></summary>
 
 I started my journey as a curious computer science student obsessed with understanding how systems really work — from the code to the kernel. I dove deep into Linux, networking, and distributed systems, constantly pushing to learn beyond the classroom. Over time, that curiosity evolved into a passion for building and automating — the kind that led me into the world of DevOps, Site Reliability Engineering, and Cloud Architecture.
 
@@ -49,6 +50,11 @@ That desire to teach and create has become just as strong as my drive to build. 
 
 Comfort never built anything great. It’s time to get uncomfortable again — to build, to innovate, and to bring the ideas I’ve been teaching into reality.
 </details>
--->
+
+### 🌍 Connect with me
+
+- [Website][website]
+- [LinkedIn][LinkedIn]
+
 [website]: https://google.com
 [LinkedIn]: https://linkedin.com
