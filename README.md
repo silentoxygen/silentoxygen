@@ -40,6 +40,7 @@ I create content the same way I build platforms: with intention, clarity, and cr
 <!--
 <details>
  <summary><h3>👨‍💻 silentoxygen's Coding Journey</h3></summary>
+
 I started my journey as a curious computer science student obsessed with understanding how systems really work — from the code to the kernel. I dove deep into Linux, networking, and distributed systems, constantly pushing to learn beyond the classroom. Over time, that curiosity evolved into a passion for building and automating — the kind that led me into the world of DevOps, Site Reliability Engineering, and Cloud Architecture.
 
 I’ve spent years designing infrastructure, automating workflows, and helping organizations move from manual chaos to resilient, observable systems. But somewhere along the way, I also found my second passion — teaching. I began creating SRE and DevOps training programs, labs, and workshops to help engineers build not just skills, but mindset — the SRE way of thinking.
@@ -47,6 +48,7 @@ I’ve spent years designing infrastructure, automating workflows, and helping o
 That desire to teach and create has become just as strong as my drive to build. And now, I’m at a stage where both worlds meet: building systems that teach, and teaching systems that build reliability. I’ve left the “safe route” of just consulting to focus on something bigger — creating platforms, content, and products that empower the next generation of engineers.
 
 Comfort never built anything great. It’s time to get uncomfortable again — to build, to innovate, and to bring the ideas I’ve been teaching into reality.
+</details>
 -->
 [website]: https://google.com
 [LinkedIn]: https://linkedin.com
